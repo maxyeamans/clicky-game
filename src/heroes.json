@@ -1,0 +1,62 @@
+[
+    {
+        "clicked": false,
+        "source": "DVa",
+        "id": 1
+    },
+    {
+        "clicked": false,
+        "source": "Reinhardt",
+        "id": 2
+    },
+    {
+        "clicked": false,
+        "source": "Winston",
+        "id": 3
+    },
+    {
+        "clicked": false,
+        "source": "Zarya",
+        "id": 4
+    },
+    {
+        "clicked": false,
+        "source": "Genji",
+        "id": 5
+    },
+    {
+        "clicked": false,
+        "source": "Pharah",
+        "id": 6
+    },
+    {
+        "clicked": false,
+        "source": "Soldier76",
+        "id": 7
+    },
+    {
+        "clicked": false,
+        "source": "Tracer",
+        "id": 8
+    },
+    {
+        "clicked": false,
+        "source": "Ana",
+        "id": 9
+    },
+    {
+        "clicked": false,
+        "source": "Lucio",
+        "id": 10
+    },
+    {
+        "clicked": false,
+        "source": "Mercy",
+        "id": 11
+    },
+    {
+        "clicked": false,
+        "source": "Zenyatta",
+        "id": 12
+    }
+]
